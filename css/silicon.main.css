@@ -1,0 +1,26 @@
+.book-appointment-btn {
+  background-color: #62b9ff; /* Light blue color */
+  color: white; /* Text color */
+  padding: 15px 30px; /* Padding for a larger button */
+  border: none; /* Remove the default border */
+  border-radius: 50px; /* Rounded corners */
+  font-size: 16px; /* Larger text for better visibility */
+  font-weight: 600; /* Bold text */
+  text-transform: uppercase; /* Uppercase text */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: all 0.3s ease; /* Smooth transition for hover effects */
+}
+
+.book-appointment-btn:hover {
+  background-color: #3399cc; /* Darker blue on hover */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Subtle shadow on hover */
+}
+
+.book-appointment-btn:focus {
+  outline: none; /* Remove the default outline on focus */
+}
+
+
+.single-doctors h4{
+  color: whitesmoke;
+}
